@@ -1,0 +1,236 @@
+customer_id,full_name,email,phone,country,signup_date
+1,David Meyer,david.meyer.1@example.com,+43 (321) 819600,ES,2024-05-19
+2,Greta Silva,greta.silva.2@example.com,+90 838 637 940,pl,2024-01-05
+3,Noah Berg,noah.berg.3@example.com,+23 511 615 594,deutschland,30.08.2024
+4,Olga Dubois,olga.dubois.4@example.com,+61-849-593103,U.S.A.,2023-04-14
+5,  Clara Silva ,clara.silva.5@example.com,64752553419,U.S.A.,12.12.2023
+6,Hugo Rossi,hugo.rossi.6@example.com,+64 (835) 030564,FR,14 Jul 2024
+7,Greta Petrov,greta.petrov.7@example.com,+53 (767) 242388,Spain,2023-06-07
+8,Noah Petrov,noah.petrov.8@example.com,+53 287 101 226,FR,2024-07-19
+9,Maya Lopez,maya.lopez.9@example.com,+78 480 184 514,pl,2022-06-20
+10,Felix Fischer,felix.fischer.10@example.com,48281489325, united states ,2024-01-01
+11,Anna Petrov,anna.petrov.11@example.com,+70-154-303911,deutschland,2022-03-07
+12,Clara Dubois,clara.dubois.12@example.com,+27 824 896 383,Great Britain,2023-02-27
+13,Maya Schmidt,maya.schmidt.13@example.com,+57 871 331 509,ES,2023-08-13
+14,Hugo Meyer,hugo.meyer.14@example.com,03105183473,U.S.A.,2024-03-01
+15,Paul Silva,paul.silva.15@example.com,+63-116-566701,FR,25.07.2024
+16,Maya Moreno,maya.moreno.16@example.com,+13 338 726 247,Germany,2023-07-04
+17,Clara Fischer,clara.fischer.17@example.com,+10 801 326 773,pl,08/28/2022
+18,Ben Rossi,ben.rossi.18@example.com,06474687234,France,08 Sep 2023
+19,Ben Petrov,ben.petrov.19@example.com,,Spain,21.01.2022
+20,Clara Rossi,clara.rossi.20@example.com,+91 361 939 909,U.S.A.,12 Jun 2024
+21,Noah Schmidt,noah.schmidt.21@example.com,+98 (543) 534624,pl,05 May 2022
+22,  Kira Novak ,kira.novak.22@example.com,79911838425,U.S.A.,2024-07-09
+23,Hugo Berg,hugo.berg.23@example.com,+27-849-808412,DE,04 Jun 2023
+24,David Novak,david.novak.24@example.com,82449353487,ES,07/01/2023
+25,Ben Novak,ben.novak.25@example.com,+64 (005) 242786,Spain,07 Nov 2024
+26,David Novak,david.novak.26@example.com,+28-059-826204,ES,11/11/2022
+27,Ben Berg,ben.berg.27@example.com,+31 (586) 923226,gb,2024-10-07
+28,  Felix Moreno ,felix.moreno.28@example.com,+63 (421) 607337,Germany,2022-12-11
+29,Jonas Silva,jonas.silva.29@example.com,+03 (654) 145868,United Kingdom,18 Jan 2023
+30,Anna Novak,anna.novak.30@example.com,+29 401 965 569,deutschland,01/14/2022
+31,David Lopez,david.lopez.31@example.com,,pl,2023-01-20
+32,Kira Schmidt,kira.schmidt.32@example.com,+48-465-648236,USA,2022-10-12
+33,Felix Petrov,felix.petrov.33@example.com,+46 804 436 995,pl,2022-04-19
+34,Olga Fischer,olga.fischer.34@example.com,+38 (721) 489513,Spain,02.03.2023
+35,Hugo Silva,hugo.silva.35@example.com,+00 (379) 176936,United Kingdom,2022-02-18
+36,Maya Silva,maya.silva.36@example.com,+01 (632) 870831,UK,07 May 2022
+37,  Elena Fischer ,elena.fischer.37@example.com,88957986872,Spain,03/30/2022
+38,Olga Kowalski,olga.kowalski.38@example.com,+48 (734) 714345,UK,11.02.2023
+39,  Clara Rossi ,clara.rossi.39@example.com,+36 231 665 876,Great Britain,07/22/2024
+40,Greta Lopez,greta.lopez.40@example.com,+90 967 054 668,FR,2023-09-02
+41,Paul Silva,paul.silva.41@example.com,67065627298,Germany,02.10.2024
+42,Maya Petrov,maya.petrov.42@example.com,+01 (627) 204653,pl,10 May 2022
+43,Kira Berg,kira.berg.43@example.com,+46-417-080531,France,05.09.2024
+44,Anna Silva,anna.silva.44@example.com,+09-232-719374,United Kingdom,11/02/2022
+45,Felix Petrov,felix.petrov.45@example.com,+12 419 049 663,pl,06/24/2024
+46,Hugo Novak,hugo.novak.46@example.com,+49 190 586 518,ES,29 Dec 2022
+47,Anna Lopez,anna.lopez.47@example.com,16572628498,France,03/12/2022
+48,Olga Lopez,olga.lopez.48@example.com,+94 (531) 473799,ES,2022-10-12
+49,Kira Meyer,kira.meyer.49@example.com,52735454948,France,2024-11-06
+50,  Greta Novak ,greta.novak.50@example.com,67837770143,United Kingdom,21 Aug 2022
+51,Hugo Kowalski,hugo.kowalski.51@example.com,+95 (788) 568557,ES,22 May 2023
+52,  Jonas Kowalski ,jonas.kowalski.52@example.com,+13 518 233 749,gb,2021-12-18
+53,Jonas Novak,jonas.novak.53@example.com,+43 524 082 400,UK,2023-04-08
+54,Elena Schmidt,elena.schmidt.54@example.com,10947775204,FR,24 Mar 2022
+55,David Novak,david.novak.55@example.com,71902294131,France,2022-07-28
+56,Hugo Dubois,hugo.dubois.56@example.com,77496499091,FR,28.09.2023
+57,Greta Kowalski,greta.kowalski.57@example.com,12328120679,Spain,09 Apr 2022
+58,Jonas Meyer,jonas.meyer.58@example.com,+44-713-493618,UK,08/24/2023
+59,Elena Kowalski,elena.kowalski.59@example.com,+10-249-947174,United Kingdom,2022-08-25
+60,Iris Dubois,iris.dubois.60@example.com,77190659401,pl,2023-08-16
+61,Anna Schmidt,anna.schmidt.61@example.com,+90-278-742967,Germany,24 May 2024
+62,Paul Berg,paul.berg.62@example.com,+55 125 674 680,FR,2022-05-10
+63,Clara Berg,clara.berg.63@example.com,51680876038,Germany,2022-11-17
+64,  Paul Schmidt ,paul.schmidt.64@example.com,03482477109,France,2023-07-25
+65,Felix Kowalski,felix.kowalski.65@example.com,+08 613 171 274,Poland,2022-01-19
+66,Iris Lopez,iris.lopez.66@example.com,,FR,11.05.2023
+67,Noah Berg,noah.berg.67@example.com,+40-449-972787,pl,2022-12-21
+68,Kira Dubois,kira.dubois.68@example.com,67533963605,Poland,03.04.2022
+69,Maya Lopez,maya.lopez.69@example.com,,ES,2022-05-06
+70,Anna Moreno,anna.moreno.70@example.com,+62-174-596158,gb,2022-10-10
+71,Kira Schmidt,kira.schmidt.71@example.com,+78 091 343 161,ES,2024-05-05
+72,Olga Rossi,olga.rossi.72@example.com,+40 050 455 623,ES,12/05/2021
+73,Noah Petrov,noah.petrov.73@example.com,+22 219 693 792,Spain,09.08.2023
+74,  Olga Schmidt ,olga.schmidt.74@example.com,+74 074 821 759,deutschland,03/25/2023
+75,Noah Moreno,noah.moreno.75@example.com,74367136959,DE,2023-04-01
+76,Jonas Meyer,jonas.meyer.76@example.com,+64-090-974395,Spain,05.09.2023
+77,Greta Petrov,greta.petrov.77@example.com,+21 (047) 095214,Germany,27.01.2023
+78,Noah Rossi,noah.rossi.78@example.com,+28 588 424 745,Great Britain,04/05/2024
+79,Olga Novak,olga.novak.79@example.com,36851604817,UK,03 Nov 2022
+80,  Iris Petrov ,iris.petrov.80@example.com,+51 (370) 985931,France,21.04.2022
+81,Jonas Schmidt,jonas.schmidt.81@example.com,+12 (004) 711382,FR,09/23/2022
+82,Olga Berg,olga.berg.82@example.com,+86 926 179 640,Spain,2022-10-30
+83,Greta Fischer,greta.fischer.83@example.com,+35 (158) 506431,FR,05/10/2022
+84,Clara Schmidt,clara.schmidt.84@example.com,+90 053 293 183,Great Britain,09/11/2023
+85,Hugo Berg,hugo.berg.85@example.com,90422842102,UK,10/27/2024
+86,Leon Silva,leon.silva.86@example.com,50240268117,Poland,05/23/2022
+87,Leon Dubois,leon.dubois.87@example.com,+17-839-084700,pl,2022-03-22
+88,  Maya Lopez ,maya.lopez.88@example.com,+17 711 592 124,Spain,31 Jan 2023
+89,Maya Petrov,maya.petrov.89@example.com,+47 896 118 367,Poland,17 Aug 2023
+90,Noah Berg,noah.berg.90@example.com,66156545271,France,2024-05-24
+91,Clara Novak,clara.novak.91@example.com,,France,03.12.2022
+92,Noah Moreno,noah.moreno.92@example.com,49451983273, united states ,2024-04-19
+93,Leon Dubois,leon.dubois.93@example.com,14936899809,Germany,29.05.2023
+94,Anna Rossi,anna.rossi.94@example.com,+45 502 296 120,Germany,05/23/2024
+95,Greta Lopez,greta.lopez.95@example.com,,France,09.01.2024
+96,Ben Schmidt,ben.schmidt.96@example.com,+47 (679) 764381,U.S.A.,2022-12-21
+97,Noah Novak,noah.novak.97@example.com,+97-840-369003,Germany,20.03.2023
+98,Greta Rossi,greta.rossi.98@example.com,+45 107 622 683,Germany,2022-02-06
+99,Leon Novak,leon.novak.99@example.com,+06-071-596966,FR,14 Apr 2023
+100,David Lopez,david.lopez.100@example.com,52975161369,us,29 Aug 2022
+101,Clara Lopez,clara.lopez.101@example.com,+53 521 818 835,deutschland,2022-12-08
+102,Elena Silva,elena.silva.102@example.com,,us,22 May 2022
+103,Kira Schmidt,kira.schmidt.103@example.com,+27-177-449058,DE,06/28/2024
+104,Jonas Fischer,jonas.fischer.104@example.com,+00 541 199 867,France,09/03/2024
+105,  Olga Petrov ,olga.petrov.105@example.com,,ES,2022-01-28
+106,Felix Meyer,felix.meyer.106@example.com,,United Kingdom,04.01.2023
+107,Ben Schmidt,ben.schmidt.107@example.com,51518644925,Spain,2024-06-13
+108,Elena Berg,elena.berg.108@example.com,+62-914-865281,Germany,13.07.2022
+109,Leon Meyer,leon.meyer.109@example.com,+42-357-332214,deutschland,2024-05-03
+110,Ben Schmidt,ben.schmidt.110@example.com,+92 962 229 270,deutschland,08.08.2022
+111,Leon Schmidt,leon.schmidt.111@example.com,+37 (947) 383473,ES,04.11.2022
+112,Olga Fischer,olga.fischer.112@example.com,+68 862 392 407,deutschland,28.10.2022
+113,  David Moreno ,david.moreno.113@example.com,+14-124-782613,Poland,18.05.2022
+114,Leon Meyer,leon.meyer.114@example.com,+06-853-615305,France,2024-05-08
+115,Kira Rossi,kira.rossi.115@example.com,+04 727 790 104,United Kingdom,2023-09-12
+116,Elena Dubois,elena.dubois.116@example.com,,ES,05 May 2022
+117,Clara Novak,clara.novak.117@example.com,+98-089-324609,France,05.12.2022
+118,Hugo Petrov,hugo.petrov.118@example.com,+21 (851) 888880,FR,19.09.2022
+119,Paul Meyer,paul.meyer.119@example.com,+65-405-153195,Spain,2024-02-27
+120,Ben Berg,ben.berg.120@example.com,+52-772-217043,Poland,29.08.2024
+121,Greta Meyer,greta.meyer.121@example.com,,deutschland,17 Jan 2023
+122,Iris Novak,iris.novak.122@example.com,66765277584,Germany,2024-06-10
+123,Noah Novak,noah.novak.123@example.com,+92 845 115 447,France,08 Jul 2022
+124,Felix Moreno,felix.moreno.124@example.com,+57 059 640 165,FR,01/11/2022
+125,Felix Meyer,felix.meyer.125@example.com,97021355690,gb,17 Jan 2024
+126,  Olga Berg ,olga.berg.126@example.com,71928565431,DE,10/04/2024
+127,Felix Fischer,felix.fischer.127@example.com,68144739473,pl,20 Mar 2024
+128,Elena Novak,elena.novak.128@example.com,,FR,06 Dec 2023
+129,Leon Dubois,leon.dubois.129@example.com,+13 (237) 058957,United Kingdom,06 Mar 2024
+130,Clara Novak,clara.novak.130@example.com,+67 866 912 517,Germany,17 Apr 2022
+131,  Leon Rossi ,leon.rossi.131@example.com,+92-268-018242,Poland,12/31/2023
+132,Kira Moreno,kira.moreno.132@example.com,+58-414-384249,UK,30 Nov 2021
+133,Clara Dubois,clara.dubois.133@example.com,29922995900,ES,2024-06-13
+134,Ben Schmidt,ben.schmidt.134@example.com,43969078447,pl,14.07.2023
+135,Maya Kowalski,maya.kowalski.135@example.com,10276773592,France,02/25/2023
+136,Kira Moreno,kira.moreno.136@example.com,+62-588-153714,deutschland,05/21/2022
+137,Hugo Rossi,hugo.rossi.137@example.com,+04 (696) 325953, united states ,2024-01-05
+138,Paul Dubois,paul.dubois.138@example.com,+74-701-687339,France,05 Dec 2022
+139,  Ben Meyer ,ben.meyer.139@example.com,+79 (748) 016245,Germany,2022-08-24
+140,  Leon Meyer ,leon.meyer.140@example.com,+09-835-841687,France,04 May 2023
+141,David Rossi,david.rossi.141@example.com,+65 (585) 239868,U.S.A.,05 Sep 2024
+142,Ben Meyer,ben.meyer.142@example.com,+57 (872) 982595,UK,12/30/2023
+143,Maya Petrov,maya.petrov.143@example.com,+49 (588) 879470,Spain,11/03/2022
+144,Kira Schmidt,kira.schmidt.144@example.com,+69-409-749930, united states ,2022-03-19
+145,Felix Dubois,felix.dubois.145@example.com,96230913075,Spain,07/23/2022
+146,Elena Lopez,elena.lopez.146@example.com,+36 897 028 385,Spain,23 Mar 2022
+147,Maya Berg,maya.berg.147@example.com,+78 (585) 497334,UK,26 Mar 2023
+148,Hugo Kowalski,hugo.kowalski.148@example.com,37575844198,deutschland,2022-10-11
+149,Maya Berg,maya.berg.149@example.com,+40 415 747 338,United Kingdom,21 May 2023
+150,Iris Rossi,iris.rossi.150@example.com,,USA,20.01.2023
+151,Paul Novak,paul.novak.151@example.com,+20 (826) 773454,Spain,28.07.2024
+152,Clara Schmidt,clara.schmidt.152@example.com,38026206724,Poland,11 Sep 2024
+153,Anna Kowalski,anna.kowalski.153@example.com,+91-547-887287,pl,2023-05-18
+154,Greta Novak,greta.novak.154@example.com,+27 (420) 549329,Germany,19 Aug 2022
+155,Noah Dubois,noah.dubois.155@example.com,16122753046,Germany,2023-08-02
+156,Olga Kowalski,olga.kowalski.156@example.com,+49-904-530174,DE,01/04/2024
+157,Maya Schmidt,maya.schmidt.157@example.com,+41 (459) 332727,Poland,23.10.2022
+158,Noah Moreno,noah.moreno.158@example.com,+78 (339) 187851,Poland,11 Apr 2024
+159,Ben Dubois,ben.dubois.159@example.com,+39 822 587 139,Poland,01 Mar 2022
+160,Clara Dubois,clara.dubois.160@example.com,07286790874,FR,10/13/2024
+161,Maya Kowalski,maya.kowalski.161@example.com,39106518017,USA,23.09.2024
+162,Jonas Lopez,jonas.lopez.162@example.com,+26-567-661825,gb,29 Mar 2024
+163,Felix Dubois,felix.dubois.163@example.com,+82 (300) 478686,France,14 Aug 2023
+164,Hugo Fischer,hugo.fischer.164@example.com,+24-310-690331,Germany,2024-05-04
+165,Ben Fischer,ben.fischer.165@example.com,+03 (067) 383028,Poland,2023-04-14
+166,Hugo Moreno,hugo.moreno.166@example.com,+59 953 428 364,Poland,2023-05-13
+167,Ben Dubois,ben.dubois.167@example.com,+26-870-568566,Poland,01/26/2024
+168,Jonas Lopez,jonas.lopez.168@example.com,+87 (334) 270866,United Kingdom,2021-12-07
+169,Elena Lopez,elena.lopez.169@example.com,+43 (517) 518304,UK,16 Oct 2022
+170,Ben Novak,ben.novak.170@example.com,+98 373 540 331,gb,2022-03-22
+171,Hugo Moreno,hugo.moreno.171@example.com,+36 385 467 854,Poland,10.06.2023
+172,Leon Dubois,leon.dubois.172@example.com,+71-753-556093,FR,2024-02-02
+173,  Anna Kowalski ,anna.kowalski.173@example.com,99642353693,pl,08.02.2022
+174,Kira Kowalski,kira.kowalski.174@example.com,77252287280,France,12/19/2021
+175,Ben Novak,ben.novak.175@example.com,,ES,24 Oct 2022
+176,Ben Petrov,ben.petrov.176@example.com,+97 (700) 886008,ES,14.05.2023
+177,Jonas Meyer,jonas.meyer.177@example.com,+62 (118) 233984,Poland,2022-12-02
+178,Iris Lopez,iris.lopez.178@example.com,+56-793-341016, united states ,2022-10-12
+179,Maya Dubois,maya.dubois.179@example.com,00217659180,FR,2023-08-14
+180,Greta Moreno,greta.moreno.180@example.com,+74-014-890250,pl,09/29/2023
+181,Elena Moreno,elena.moreno.181@example.com,,FR,19.06.2024
+182,Leon Meyer,leon.meyer.182@example.com,63159996504, united states ,19 May 2022
+183,Paul Silva,paul.silva.183@example.com,86629619431,deutschland,11 Jun 2024
+184,Iris Rossi,iris.rossi.184@example.com,+26 (551) 104754,FR,01 May 2024
+185,Elena Novak,elena.novak.185@example.com,+67 888 610 158,gb,20.05.2024
+186,Kira Lopez,kira.lopez.186@example.com,+46 (618) 398262,us,2024-02-16
+187,Iris Kowalski,iris.kowalski.187@example.com,+72 126 464 715,DE,2023-06-30
+188,Hugo Moreno,hugo.moreno.188@example.com,+79 937 124 065,ES,2022-10-10
+189,Kira Fischer,kira.fischer.189@example.com,+69-245-937526,DE,02/12/2023
+190,Jonas Moreno,jonas.moreno.190@example.com,+79 (356) 465193,Spain,24 Nov 2023
+191,  Anna Moreno ,anna.moreno.191@example.com,37416724342,FR,14.07.2022
+192,Maya Novak,maya.novak.192@example.com,+97 (968) 868058,FR,05 Jun 2024
+193,  David Silva ,david.silva.193@example.com,+52 909 656 101,Spain,06/16/2023
+194,Hugo Dubois,hugo.dubois.194@example.com,+88 (993) 756798,Spain,01/23/2024
+195,Leon Meyer,leon.meyer.195@example.com,14611254573,FR,12/25/2021
+196,Paul Berg,paul.berg.196@example.com,17751401051,France,26 Dec 2023
+197,Hugo Dubois,hugo.dubois.197@example.com,+82 586 736 226,UK,08 Sep 2022
+198,Anna Moreno,anna.moreno.198@example.com,+37 966 033 419,pl,02 May 2024
+199,Felix Berg,felix.berg.199@example.com,,DE,2024-04-07
+200,  Leon Berg ,leon.berg.200@example.com,+92-499-125134,France,04/01/2024
+201,HUGO DUBOIS, HUGO.DUBOIS.194@EXAMPLE.COM ,,,2024-02-17
+202,KIRA MORENO, KIRA.MORENO.136@EXAMPLE.COM ,,,06/28/2022
+203,KIRA MEYER, KIRA.MEYER.49@EXAMPLE.COM ,,,2024-11-17
+204,CLARA SILVA, CLARA.SILVA.5@EXAMPLE.COM ,,,2024-02-03
+205,KIRA KOWALSKI, KIRA.KOWALSKI.174@EXAMPLE.COM ,,,01/08/2022
+206,GRETA SILVA, GRETA.SILVA.2@EXAMPLE.COM ,,,2024-02-04
+207,MAYA KOWALSKI, MAYA.KOWALSKI.161@EXAMPLE.COM ,,,2024-11-01
+208,HUGO MORENO, HUGO.MORENO.188@EXAMPLE.COM ,,,01 Nov 2022
+209,PAUL SCHMIDT, PAUL.SCHMIDT.64@EXAMPLE.COM ,,,20.09.2023
+210,JONAS MEYER, JONAS.MEYER.58@EXAMPLE.COM ,,,15 Sep 2023
+211,IRIS LOPEZ, IRIS.LOPEZ.178@EXAMPLE.COM ,,,04.11.2022
+212,MAYA PETROV, MAYA.PETROV.89@EXAMPLE.COM ,,,28 Aug 2023
+213,IRIS PETROV, IRIS.PETROV.80@EXAMPLE.COM ,,,23.04.2022
+214,OLGA FISCHER, OLGA.FISCHER.34@EXAMPLE.COM ,,,17.03.2023
+215,BEN BERG, BEN.BERG.27@EXAMPLE.COM ,,,2024-10-21
+301,No Email 0,,,Spain,2024-01-15
+302,No Email 1,,,Spain,2024-01-15
+303,No Email 2,,,Spain,2024-01-15
+304,No Email 3,,,Spain,2024-01-15
+305,No Email 4,,,Spain,2024-01-15
+306,No Email 5,,,Spain,2024-01-15
+307,No Email 6,,,Spain,2024-01-15
+308,No Email 7,,,Spain,2024-01-15
+320,Bad Email 0,john.doe@,,France,2024-02-20
+321,Bad Email 1,no-at-sign.com,,France,2024-02-20
+322,Bad Email 2,a@b,,France,2024-02-20
+323,Bad Email 3,x y@example.com,,France,2024-02-20
+324,Bad Email 4,@example.com,,France,2024-02-20
+325,Bad Email 5,plain,,France,2024-02-20
+330,Bad Date 0,bad.date.0@example.com,,Poland,31.02.2023
+331,Bad Date 1,bad.date.1@example.com,,Poland,n/a
+340,   ,no.name.0@example.com,,Germany,2023-06-01
+341,   ,no.name.1@example.com,,Germany,2023-06-01
+342,   ,no.name.2@example.com,,Germany,2023-06-01
+5,Id Clash,id.clash@example.com,,UK,2023-07-07
